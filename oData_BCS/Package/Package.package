@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="ba7057b2-ae81-482e-8a00-5f274e0191ee" 
+        solutionId="ba7057b2-ae81-482e-8a00-5f274e0191ee" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="oData_BCS"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="d437a69a-8e60-4120-acdd-69c4e25a78a6" />
+  </features>
+</package>
